@@ -1,0 +1,16 @@
+.half-width{
+
+    width:40%;float: left;margin-left: 5%;padding-left: 2%;
+}
+.right-img{
+
+    width:100%;height: auto;border-radius: 50%;
+}
+h1{
+
+    font-size: 50px;
+}
+.orange-highlight{
+
+    color: orange;
+}
