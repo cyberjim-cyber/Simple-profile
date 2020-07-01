@@ -56,4 +56,56 @@ section{
 }
 #baby-web{
 
-    border-left: 7px solid;border-image:linear-gradient(180deg,blue,cyan);border-image-slice:1;
+    border-left: 7px solid;border-image:linear-gradient(180deg,blue,cyan);border-image-slice:1;}
+    .work-img{
+
+        width:30%;float:left;margin-left: 40px;
+    }
+    .three-latest-work{
+
+
+
+        height: 500px;margin-left: 100px;padding-left: 60px;
+    }
+    .w-png{
+
+        width:350px;height: 400px;
+    }
+.latest-headline{
+
+    font-size: 33px;text-align:center ;
+}
+ .latest-headline::after{
+
+    content: " ";width:230px ;height: 2px;background-color: tomato;display: block;margin: auto;
+}
+.message-div{
+
+    background-color: #ec4e8d;text-decoration: none;padding: 10px 20px;width:400px;margin: auto;padding: 35px 80px;border-radius: 10px;
+}
+.message-button{
+
+    text-decoration: none;
+}
+.programing-website{
+
+    font-size: 34px;text-align: center;color: white;margin-bottom: 40px;
+}
+.leave{
+
+ margin-left: 35px;font-size: 20px;color: white;
+}
+.client{
+
+    text-align: center;
+}
+.lorem{
+
+    margin: 50px 0px;font-size: 18px;
+}
+.name{
+    margin-bottom: 12px;
+}
+.client-reply{
+    margin-bottom: 65px;
+}
